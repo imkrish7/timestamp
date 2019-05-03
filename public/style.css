@@ -1,0 +1,65 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    margin: 2em;
+    background: rgba(104, 124, 130, 0.8);
+    color: #fff;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 5px;
+}
+
+main {
+    width: 700px;
+    margin: auto;
+}
+
+.usage {
+    text-align: center
+}
+
+.output {
+    margin: 10px;
+    text-align: center;
+}
+
+.format h2,
+.format p,
+.format a {
+    margin: 10px
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p {
+    max-width: 600px;
+}
+
+main .owner {
+    text-align: center;
+    color: #fff;
+}
+
+.owner a {
+    color: #fff;
+}
+
+.owner span {
+    color: blue;
+}
+
+li {
+    margin: 30px;
+}
